@@ -1,0 +1,23 @@
+{
+  "name": "nodeapp",
+  "version": "1.0.0",
+  "description": "This is a app reflecting what was learned in a node.js course",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rbayona03/nodeApp.git"
+  },
+  "author": "Roberto Bayona",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rbayona03/nodeApp/issues"
+  },
+  "homepage": "https://github.com/rbayona03/nodeApp#readme",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
